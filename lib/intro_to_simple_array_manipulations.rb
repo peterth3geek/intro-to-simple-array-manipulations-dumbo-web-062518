@@ -35,7 +35,7 @@ def using_uniq (array)
 end
 
 def using_flatten (array)
-  #not learned
+  array.flatten
 end
 
 def using_delete (array, string)
