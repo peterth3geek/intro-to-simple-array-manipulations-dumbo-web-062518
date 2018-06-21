@@ -23,7 +23,7 @@ array.shift(2)
 end
 
 def using_concat(array, array2)
-#something else we haven't learned
+array.concat(array2)
 end
 
 def using_insert(array, element)
