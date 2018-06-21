@@ -31,7 +31,7 @@ array.insert(4, element)
 end
 
 def using_uniq (array)
-  #not learned
+  array.uniq
 end
 
 def using_flatten (array)
