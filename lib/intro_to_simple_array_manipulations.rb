@@ -29,3 +29,19 @@ end
 def using_insert(array, element)
 array.insert(4, element)
 end
+
+def using_uniq (array)
+  #not learned
+end
+
+def using_flatten (array)
+  #not learned
+end
+
+def using_delete (array, string)
+  #not learned
+end
+
+def using_delete_at (array, int)
+#not learned
+end
